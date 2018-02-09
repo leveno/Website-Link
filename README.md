@@ -11,9 +11,10 @@ Python:https://www.python.org/
 
 Odoo:https://www.odoo.com/zh_CN/
 
-git:https://git-scm.com/book/zh/v2
+Git:https://git-scm.com/book/zh/v2
 
-nginx:http://www.nginx.cn/doc/
+Nginx:http://www.nginx.cn/doc/
 
+node.js中文文档：https://github.com/0532/nodejs
   
 
